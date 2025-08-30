@@ -24,24 +24,24 @@ A stylish digital business card built with HTML and CSS. This project features a
 
 1. Clone this repository:
 ```
-git clone https://github.com/AyoubxpyI/interactive-business-card.git
+git clone https://github.com/Ayoubxpy/Business-Card-Project.git
 ```
 
 2. Open the `index.html` file in your web browser.
 
 3. To customize:
-   - Replace `images/me.jpg` with your own photo
+   - Update the image source URL in the HTML for your own photo
    - Edit the HTML to update your personal information
    - Modify the color scheme in CSS as desired
 
 ## Project Structure
 
 ```
-interactive-business-card/
+Business-Card-Project/
 ├── index.html          # Main HTML file
 ├── styles.css          # CSS styles
-├── images/             # Image directory
-│   └── me.jpg          # Your profile picture
+├── image.png           # Business card preview image
+├── LICENSE             # MIT License
 └── README.md           # Project documentation
 ```
 
